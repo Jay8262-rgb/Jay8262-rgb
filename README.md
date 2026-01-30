@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jay </h1>
+<h1 align="center">Hi 👋, I'm jay/h1>
 <h3 align="center">"Highly motivated Computer Science graduate with a strong foundation in data structures, algorithms, and full-stack development through internships and personal projects. Proficient in Python, Java, and SQL. Eager to apply problem-solving skills to a fast-paced software team."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay8262-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="jay8262-rgb" /> </p>
